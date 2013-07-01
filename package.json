@@ -1,0 +1,20 @@
+{
+  "name": "jsx-template",
+  "version": "0.0.0",
+  "description": "",
+  "main": " ",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-jsx": "~0.0.3",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phi1618/jsx-template.git"
+  },
+  "author": "phi1618",
+  "license": "MIT"
+}
