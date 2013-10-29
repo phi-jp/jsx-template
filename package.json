@@ -1,13 +1,18 @@
 {
   "name": "jsx-template",
   "version": "0.0.0",
-  "description": "",
+  "description": "jsx env",
   "main": " ",
   "devDependencies": {
+    "grunt-jsx": "~0.1.5",
     "grunt": "~0.4.1",
-    "grunt-jsx": "~0.0.3",
     "grunt-contrib-watch": "~0.4.4"
   },
+  "keywords": [
+    "tmlib",
+    "javascript",
+    "jsx"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +20,6 @@
     "type": "git",
     "url": "git://github.com/phi1618/jsx-template.git"
   },
-  "author": "phi1618",
+  "author": "phi-jp",
   "license": "MIT"
 }
